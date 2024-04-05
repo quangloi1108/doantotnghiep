@@ -10,6 +10,7 @@ const CartPage = () => {
             <div
                 className="cart-page">
                     <Cart/>
+                    
             </div>
             <div
                 className="Footer">

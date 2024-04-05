@@ -27,6 +27,7 @@ const Login = () => {
     .then(res => res.json())
     .then(json => console.log(json));
     
+    
     //thực hiện kiểm tra đăng nhập
     if(username === true && password === true){
       console.log("thành công !")
